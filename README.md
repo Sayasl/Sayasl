@@ -12,6 +12,7 @@ Driven by a deep passion for technology, I am eager to transition into cybersecu
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Cybersecurity & DevSecOps                     | <a href="https://github.com/Sayasl/Cybersecurity-DevSecOps-Projects">Lab</a>|
+| SOC Home Lab                                  | <a href="https://github.com/Sayasl/SOC-Home-Lab">Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Sayasl/Traffic-Detection-Analysis-Wireshark-">Lab</a>|
 | Vulnerability Management                      | <a href="https://github.com/Sayasl/Vulnerability-Management-Nessus-">Lab</a>|
 | Security information and event management     | <a href="https://github.com/Sayasl/Splunk-Projects">Lab</a>|
@@ -43,6 +44,8 @@ Driven by a deep passion for technology, I am eager to transition into cybersecu
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-0B5FFF?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-6A0DAD?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### SIEM
