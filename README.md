@@ -1,7 +1,7 @@
 # Hello, I'm Sayed
 <a href="https://www.linkedin.com/in/sayed-aslam-3510351b9/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity enthusiast with a passion for technology and a knack for solving complex security challenges. Eager to safeguard systems through ethical hacking, threat detection, and risk mitigation. 
+Cybersecurity professional enthusiast with a passion for technology and a knack for solving complex security challenges. Eager to safeguard systems through ethical hacking, threat detection, and risk mitigation. 
 
 ## Objective
 
@@ -21,6 +21,7 @@ Driven by a deep passion for technology, I am eager to transition into cybersecu
 | Microsoft Windows Defender                    | <a href="https://github.com/Sayasl/Microsoft-Windows-Defender-Firewall">Lab</a>|
 | Azure AD                                      | <a href="https://github.com/Sayasl/Azure-AD">Lab</a>|
 | Penetration Testing                           | <a href="https://github.com/Sayasl/Penetration-Testing">Lab</a>|
+| GRC                                           | <a href="https://github.com/Sayasl/GRC">Lab</a>|
 
 ## Tools
 
