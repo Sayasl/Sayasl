@@ -1,11 +1,11 @@
 # Hello, I'm Sayed
 <a href="https://www.linkedin.com/in/sayed-aslam-3510351b9/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity professional enthusiast with a passion for technology and a knack for solving complex security challenges. Eager to safeguard systems through ethical hacking, threat detection, and risk mitigation. 
+Cybersecurity professional enthusiast with a passion for technology and a knack for solving complex security challenges. Eager to safeguard systems through detection, response and risk mitigation.
 
 ## Objective
 
-Driven by a deep passion for technology, I am eager to transition into cybersecurity, aiming to join a Security Operations team as a Tier 1 Analyst. Excited to apply my skills in threat detection, incident response, and security monitoring to protect digital assets.
+Driven by a deep passion for technology, I am eager to transition into cybersecurity, aiming to join a Security team. Excited to apply my skills in threat detection, response, and security measures to protect digital assets.
 
 ## Skills
 
