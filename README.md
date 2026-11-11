@@ -22,7 +22,7 @@ Driven by a deep passion for technology, I am eager to transition into cybersecu
 | Azure AD                                      | <a href="https://github.com/Sayasl/Azure-AD">Lab</a>|
 | Penetration Testing                           | <a href="https://github.com/Sayasl/Penetration-Testing">Lab</a>|
 | GRC                                           | <a href="https://github.com/Sayasl/GRC">Lab</a>|
-| Windows Server (2022) AD                      | <a href="https://github.com/Sayasl/GRC](https://github.com/Sayasl/Windows-Server-2022-AD">Lab</a>|
+| Windows Server (2022) AD                      | <a href="https://github.com/Sayasl/Windows-Server-2022-AD">Lab</a>|
 
 ## Tools
 
